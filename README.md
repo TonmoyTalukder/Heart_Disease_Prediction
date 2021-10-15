@@ -4,7 +4,9 @@
 CS Undergrad, <a href="https://www.aust.edu/"> AUST</a>, Dhaka 1208, Bangladesh
 
 ## Dataset Reference: 
-<a href="https://www.kaggle.com/ronitf/heart-disease-uci">Browse The Dataset</a>
+<a href="https://www.kaggle.com/ronitf/heart-disease-uci">Browse The Dataset From Kaggle</a>
+<a href="https://archive.ics.uci.edu/ml/datasets/heart+disease">Browse The Dataset From UCI Website</a>
+
 
 ## Outcome:
 **Model Result:**
