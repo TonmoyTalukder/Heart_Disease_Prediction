@@ -10,14 +10,14 @@ CS Undergrad, <a href="https://www.aust.edu/"> AUST</a>, Dhaka 1208, Bangladesh
 
 
 ## Outcome:
->**1st Model Result:**
+>**1st Model Result:** </br>
 > *Model is saying 75% Heart Disease patients are Male.*
 >
->**About The 1st Model:**
+>**About The 1st Model:** </br>
 > *We are getting the Precision value from the model is 7.5 out of 10. What should be more near to 10. The Accuracy of the model is 63.74%. If the rate would more than 85% and the precision value is greater than 8 then we can say this model is pretty good, the model is not what.* 
 
->**2nd Model Result:**
+>**2nd Model Result:** </br>
 > *Model is saying 81.67 % patients has Heart Disease.*
 >
->**About The 2nd Model:**
+>**About The 2nd Model:** </br>
 > *We are getting the Precision value from the model is 7.9 out of 10. What should be more near to 10. The Accuracy of the model is 81.67%. If the accuracy rate would more than 85% and the precision value is greater than 8 then we can say this model is pretty good, but the model is not what.* 
